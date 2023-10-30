@@ -7,3 +7,7 @@ Some advantages I noticed right away were how fast TDD was able to provide me fe
 
 Disadvantages:
 Some disadvantages would be the learning curve to test driven development. While working through this lab it is easy to understand that doing it on your own would be much harder than following a guide. I think it also takes a lot for someone to truly make good test cases instead of very basic ones. Members of a team could see that a test case is working and not worry about it, but in reality the person who wrote it may have just made a test that has work-arounds. The test case may not be thought out fully or be incomplete. This could lead to the group trusting the test results and not looking deeper into the situation. 
+
+## Test Case in Group
+This test is to check the report button functionality
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group15-crispycritters/blob/Eric_test/test/app_test.py
